@@ -1,0 +1,42 @@
+
+A BOOK OF SHORT STORIES TO REMEMBER JAPANESE IDEOGRAMS
+
+[DIR] directory di lavoro del libro:
+/home/masayume/DATA/E/PROJECTS/BOOKS2WRITE/BOOK-ideogram-stories/
+
+[TODO]
+refine book structure (inspired by "Remembering the Kanji" by Heisig)
+
+[PROMPT] firefox: https://gemini.google.com/app/ab20670ca488c210
+
+ 残
+tell me informations about this kanji, the meaning, the pronounciation, the radical and a short story to remember effectively its shape. 
+
+[RADICALS]
+https://en.wikipedia.org/wiki/Kangxi_radicals
+https://en.wikipedia.org/wiki/Radical_78?oldid=490588152
+
+[PROCEDURE]
+BOOK WRITING TREE
+
+BOOK-ideogram-stories$ tree .
+├── book.pdf
+├── build_book.sh 	<=====================	crea il libro con pandoc, concatenando le informazioni dai file specificati dentro chapters
+├── chapters
+│	 ├── 00-cover.md
+│	 ├── 00-title.md
+│	 ├── 01-introduction.md
+│	 ├── 02-school.md
+│	 └── 03-feelings.md
+├── ideogram_stories.infogen.txt
+├── images
+│	 └── cover.png
+├── notes
+└── references
+
+BUILD book.pdf calling build_book.sh (using pandoc)
+
+
+[PACKAGES] pacchetti necessari per la gestione dei caratteri cinesi (ecc.)
+
+sudo apt-get install texlive-xetex latex-cjk-all
