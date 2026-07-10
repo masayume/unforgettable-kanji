@@ -1,6 +1,9 @@
 
 A BOOK OF SHORT STORIES TO REMEMBER JAPANESE IDEOGRAMS
 
+[SOURCE]
+https://livellosegreto.it/@kanjioftheday@c.im
+
 [DIR] directory di lavoro del libro:
 /home/masayume/DATA/E/PROJECTS/BOOKS2WRITE/BOOK-ideogram-stories/
 

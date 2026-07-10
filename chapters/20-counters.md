@@ -3,53 +3,28 @@
 
 \newpage
 
-lesson
-room
-homework
-teacher (kyoshi)
-study
-read
-consider
-think
+**Counter 残 (のこる) - meaning - 000 of 2500**
 
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Right Radical & & Kanji & & Left Radical \\
+\hline
+歹 (kabanehen) - This radical means "death" or "bare bone." It is found in many kanji related to death, decay, or dying (like 死). & \Huge 歹 & \scalebox{2}{\Huge 残} & \Huge 戔 & Two "spears" (戈) clashing, implying violence, cutting, or making something small. \\
+\hline
+\end{tabular}
 
-# Jyu, Sazu 授 (ジュ,さず) - To impart, to instruct, to grant, to confer.
+Story: \hl{After the spears have done their deadly work, the only things that remain on the battlefield are the bones}.
 
-| Radical | | Kanji | | Right Part |
-| :----------------------------------------------------------- | :--- | :-----: | ---: | -----------------------------------------------------------: |
-| (tehen) - The "hand" radical, used for actions involving the hands. |  \vspace{1.1em} \Large 扌 | \vspace{0.8em} \Huge 授 | \vspace{1.1em} \Large 受 | This kanji on its own means "to receive" or "to accept." small. | 
-Imagine extending your hand (扌) to give someone a gift or knowledge. Your hand is reaching out so that the other person can receive (受) it.
-The act of using your hand to help someone receive something means you are imparting or granting it to them.
+On\'yomi: ザン (ZAN)
 
-On\'yomi: ジュ (JU)
+- 残酷 (ざんこく) cruel; brutal; ruthless; merciless; inhuman
+- 残念 (ざんねん) regrettable; unfortunate; disappointing; vexing
 
-- 授業 (じゅぎょう / jugyō) – class, lesson.
-- 教授 (きょうじゅ / kyōju) – professor (literally "teaching and imparting").
+Kun\'yomi: のこ-る (noko.ru), のこ-す (noko.su)
 
-Kun\'yomi: さず-ける (sazu.keru), さず-かる (sazu.karu)
+- 残る (のこる / nokoru) – to remain (intransitive).
+- 残す (のこす / nokosu) – to leave something behind / save (transitive).
 
-- 授ける (さずける / sazukeru) – to grant, to award, to impart (transitive).
-- 授かる (さずかる / sazukaru) – to be awarded, to be gifted with (intransitive).
-
-==
-
-# Kyou, Oshieru 教 (きょう, おし.える) - teach, faith, doctrine.
-
-| Radical | | Kanji | | Right Part |
-| :----------------------------------------------------------- | :--- | :-----: | ---: | -----------------------------------------------------------: |
-| (tehen) - The "hand" radical, used for actions involving the hands. |  \vspace{1.1em} \Large 扌 | \vspace{0.8em} \Huge 授 | \vspace{1.1em} \Large 受 | This kanji on its own means "to receive" or "to accept." small. | 
-Imagine extending your hand (扌) to give someone a gift or knowledge. Your hand is reaching out so that the other person can receive (受) it.
-The act of using your hand to help someone receive something means you are imparting or granting it to them.
-
-On\'yomi: ジュ (JU)
-
-- 授業 (じゅぎょう / jugyō) – class, lesson.
-- 教授 (きょうじゅ / kyōju) – professor (literally "teaching and imparting").
-
-Kun\'yomi: さず-ける (sazu.keru), さず-かる (sazu.karu)
-
-- 授ける (さずける / sazukeru) – to grant, to award, to impart (transitive).
-- 授かる (さずかる / sazukaru) – to be awarded, to be gifted with (intransitive).
 
 
 \newpage

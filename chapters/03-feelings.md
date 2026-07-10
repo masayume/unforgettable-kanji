@@ -1,14 +1,19 @@
  
-## Chapter 3: Feelings
+# Chapter 3: Feelings
 
 \newpage
 
-# Nokoru 残る (のこる) - remainder, leftover, balance
+**Nokoru 残る (のこる) - remainder, leftover, balance - 380 of 2500**
 
-| Radical | | Kanji | | Right Part |
-| :----------------------------------------------------------- | :--- | :-----: | ---: | -----------------------------------------------------------: |
-| 歹 (kabanehen) - This radical means "death" or "bare bone." It is found in many kanji related to death, decay, or dying (like 死). |  \vspace{1.1em} \Large 歹 | \vspace{0.8em} \Huge 残 | \vspace{1.1em} \Large 戔 | This component originally represents two "spears" (戈) clashing, implying violence, cutting, or making something small. | 
-Imagine the aftermath of a fierce, ancient war. On the right, you have two spears (戔) that clashed violently in combat. On the left, you see the **bare bones of death** (歹). _After the spears have done their deadly work, the only things that remain on the battlefield are the bones_.
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Right Radical & & Kanji & & Left Radical \\
+\hline
+歹 (kabanehen) - This radical means "death" or "bare bone." It is found in many kanji related to death, decay, or dying (like 死). & \Huge 歹 & \scalebox{2}{\Huge 残} & \Huge 戔 & Two "spears" (戈) clashing, implying violence, cutting, or making something small. \\
+\hline
+\end{tabular}
+
+Imagine the aftermath of a fierce, ancient war. On the right, you have two spears (戔) that clashed violently in combat. On the left, you see the **bare bones of death** (歹). \hl{After the spears have done their deadly work, the only things that remain on the battlefield are the bones}.
 
 On\'yomi: ザン (ZAN)
 

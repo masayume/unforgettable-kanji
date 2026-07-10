@@ -1,8 +1,16 @@
 #!/bin/bash
 
-### how to install xelatex with chinese characters support
+### How to install xelatex with chinese characters support
 ### sudo apt-get install texlive-xetex latex-cjk-all
 
+### Useful links
+# 	https://jisho.org/search/季%20%23kanji
+
+### Quick page formatting:
+#	On\'yomi: ジュ (JU)
+#	Kun\'yomi: _KUNYOMI_
+#	\vspace{2cm}
+#	\newpage
 
 pandoc  chapters/00-cover.md   \
 		chapters/00-title.md   \
@@ -11,6 +19,8 @@ pandoc  chapters/00-cover.md   \
 		chapters/03-feelings.md   \
 		chapters/04-space.md   \
 		chapters/05-hard.md   \
+		chapters/06-body.md   \
+		chapters/07-time.md   \
 		chapters/20-counters.md   \
 -o book.pdf 	\
 --pdf-engine=xelatex \

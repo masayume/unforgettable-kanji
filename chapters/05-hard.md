@@ -1,37 +1,29 @@
  
-## Chapter 2: School
+## Chapter 5: Difficult Words
 
 \newpage
 
-homework
-teacher (kyoshi)
-study
-read
-consider
-think
-
-
-# Jyu, Sazu 授 (ジュ,さず) - To impart, to instruct, to grant, to confer.
+# Kan 関 (せき、-ぜき、かか.わる、からくり、かんぬき) - connection, relation, involvement.
 
 | Radical | | Kanji | | Right Part |
 | :----------------------------------------------------------- | :--- | :-----: | ---: | -----------------------------------------------------------: |
-| (tehen) - The "hand" radical, used for actions involving the hands. |  \vspace{1.1em} \Large 扌 | \vspace{0.8em} \Huge 授 | \vspace{1.1em} \Large 受 | This kanji on its own means "to receive" or "to accept." small. | 
-Imagine extending your hand to give someone a gift or knowledge. \hl{A hand (扌) is reaching out so that the other person can receive (受).}
-The act of using your hand to help someone receive something means you are imparting or granting it to them.
+| (mongamae) — The "gate" radical. It frames the outside of the kanji and is used in characters related to doors, entrances, enclosures, and spaces between things. | \vspace{1.1em} \Large 門 | \vspace{0.8em} \Huge 関 | \vspace{1.1em} \Large 关 | This is a simplified form of a traditional component depicting threads being tied or woven together with a shuttle. | 
+Imagine standing at a massive, guarded wooden gate (門). To secure it completely against intruders, the guards tie complex knots of intertwined threads and ropes (チ) through the handles, barring the entrance.
+\hl{Those threads woven through the gate create a strict checkpoint barrier and by tying the doors together, they form a permanent connection and relationship between both sides.}
 
-On\'yomi: ジュ (JU)
+On\'yomi: カン (KAN)
 
-- 授業 (じゅぎょう / jugyō) – class, lesson. 業 (ぎょう) - business, vocation, arts, performance.
-- 教授 (きょうじゅ / kyōju) – professor (literally "teaching and imparting").
+- 関係 (かんけい / kankei) – relationship, connection. 係 (ケイ) - person in charge, connection, duty, concern.
+- 関心 (かんしん / kanshin) – interest, concern.
 
-Kun\'yomi: さず-ける (sazu.keru), さず-かる (sazu.karu)
+Kun\'yomi: せき (seki), かか-わる (kaka.waru)
 
-- 授ける (さずける / sazukeru) – to grant, to award, to impart (transitive).
-- 授かる (さずかる / sazukaru) – to be awarded, to be gifted with (intransitive).
+- 関 (せき / seki) – checkpoint, barrier.
+- 関わる (かかわる / kakawaru) – to be involved in, to have to do with.
 
 \vspace{2cm}
 
-# Kyou, Oshieru 教 (きょう, おし.える) - Teach, faith, doctrine.
+# Kan 関 (せき、-ぜき、かか.わる、からくり、かんぬき) - connection, relation, involvement.
 
 | Radical | | Kanji | | Right Part |
 | :----------------------------------------------------------- | :--- | :-----: | ---: | -----------------------------------------------------------: |
@@ -41,14 +33,13 @@ On the left, you have an elder (耂) passing down wisdom and good behavior to a 
 
 On\'yomi: キョウ (KYŌ)
 
-- 教室 (きょうしつ / kyōshitsu) – classroom. 室 (しつ) - room.
-- 教育 (きょういく / kyōiku) – education. 育 (そだ, イク) - bring up, grow up, raise, rear.
-- 宗教 (しゅうきょう / shūkyō) - religion. 宗 (しゅう) - religion, sect, denomination, main point, origin, essence.
+- 関係 (かんけい / kankei) – relationship, connection. 係 (ケイ) - person in charge, connection, duty, concern.
+- 関心 (かんしん / kanshin) – interest, concern.
 
-Kun\'yomi: おし-える (oshi.eru), おそ-わる (oso.waru)
+Kun\'yomi: せき (seki), かか-わる (kaka.waru)
 
-- 教える (おしえる / oshieru) – to teach, to inform.
-- 教わる (おそわる / osowaru) – to be taught, to learn from someone.
+- 関 (せき / seki) – checkpoint, barrier.
+- 関わる (かかわる / kakawaru) – to be involved in, to have to do with.
 
 \newpage
 
