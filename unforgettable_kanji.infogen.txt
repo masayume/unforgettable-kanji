@@ -10,7 +10,7 @@ https://livellosegreto.it/@kanjioftheday@c.im
 [TODO]
 refine book structure (inspired by "Remembering the Kanji" by Heisig)
 
-[PROMPT] firefox: https://gemini.google.com/app/ab20670ca488c210
+[PROMPT] URL: firefox: 	https://gemini.google.com/app/ab20670ca488c210
 
  残
 tell me informations about this kanji, the meaning, the pronounciation, the radical and a short story to remember effectively its shape. 
@@ -18,6 +18,9 @@ tell me informations about this kanji, the meaning, the pronounciation, the radi
 [RADICALS]
 https://en.wikipedia.org/wiki/Kangxi_radicals
 https://en.wikipedia.org/wiki/Radical_78?oldid=490588152
+
+[URLS]
+https://jisho.org/search/%E9%85%B7%E6%9A%91%E6%97%A5
 
 [PROCEDURE]
 BOOK WRITING TREE
@@ -43,3 +46,30 @@ BUILD book.pdf calling build_book.sh (using pandoc)
 [PACKAGES] pacchetti necessari per la gestione dei caratteri cinesi (ecc.)
 
 sudo apt-get install texlive-xetex latex-cjk-all
+
+[KANJI][TEMPLATE]
+
+\vspace{2cm}
+
+**PRONOUNCE KK (KANA) - meaning - ORDER of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Right Radical & & Kanji & & Left Radical \\
+\hline
+LEFT_UPPER & \Huge LUK & \scalebox{2}{\Huge BIGK} & \Huge RLK & RIGHT_LOWER \\
+\hline
+\end{tabular}
+
+Story story story **word (KK)**. \hl{HIGHLIGHTED}
+
+On\'yomi: KANA (PRONOUNCE)
+
+- EXAMPLE
+- EXAMPLE
+
+Kun\'yomi: ひど-い (hido.i)
+
+- EXAMPLE
+
+\newpage

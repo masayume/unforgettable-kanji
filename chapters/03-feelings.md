@@ -49,3 +49,49 @@ Kun\'yomi: ひど-い (hido.i)
 - 酷い (ひどい / hidoi) – terrible, awful, cruel.
 
 \newpage
+
+**ATSUI 熱/暑 (あつ.い) - hot, intense / hot weather - 700/1442 of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Top Radical & & Kanji & & Bottom Radical \\
+\hline
+"to plant" or "art/skill." : 坴 (left): A mound of earth or soil (土). 丸 (right): The kanji for round or "circle" (also for pills/spheres). & \Huge 埶 & \scalebox{2}{\Huge 熱} & \Huge 灬 & (renga or rekka): "flames". \\
+\hline
+\end{tabular}
+
+A skilled potter taking **raw earth (坴)** and shaping it into a perfectly **round (丸) clay bowl**. To harden the clay, you place it directly over a blazing **fire (灬)** in a kiln. \hl{When you take the round earthen bowl out of the fire, it radiates intense heat and is far too hot to touch.}
+
+On\'yomi: ネツ (NETSU)
+
+- 熱 (ねつ / netsu) – fever, heat (e.g., "I have a fever").
+- 熱心 (ねっしん / nesshin) – enthusiasm, zeal (literally "hot heart").
+- 発熱 (はつねつ / hatsunetsu) – generation of heat, having a fever.
+
+Kun\'yomi: あつ-い (atsu.i)
+
+- 熱い (あつい / atsui) – hot (to the touch).
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Top Radical & & Kanji & & Bottom Radical \\
+\hline
+"Sun" or "day." Typically found in kanji related to time, light, or weather. & \Huge 日 & \scalebox{2}{\Huge 暑} & \Huge 者 & "person". It consists of an elder/old person (耂) standing over a second sun/day (日). \\
+\hline
+\end{tabular}
+
+a poor elderly **person (耂)** trapped outside on a summer day. There is a **blazing sun (日)** beating down on them from the sky, and the scorching reflection of a second **sun (日)** radiating up from the pavement below. \hl{Being sandwiched between two suns makes the weather incredibly and unbearably hot.}
+
+On\'yomi: ショ (SHO)
+
+- 猛暑 (もうしょ / mōsho) – fierce heat, heatwave.
+- 残暑 (ざんしょ / zansho) – lingering summer heat
+- 酷暑日 (こくしょび / kokushobi) - day of intense heat, above 40°
+
+Kun\'yomi: ひど-い (hido.i)
+
+- 暑い (あつい / atsui) – hot (weather).
+- 暑さ (あつさ / atsusa) – heat, hotness.
+
+
+\newpage
