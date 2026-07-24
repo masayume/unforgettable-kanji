@@ -1,12 +1,12 @@
  
 # Chapter 2: School
 
-homework
-teacher (kyoshi)
-study
-read
-consider
-think
+- homework
+- teacher (kyoshi)
+- study
+- read
+- consider
+- think
 
 \newpage
 
