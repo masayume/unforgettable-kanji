@@ -25,6 +25,7 @@
 #		chapters/06-body.md   \
 #		chapters/07-time.md   \
 #		chapters/20-counters.md   \
+#		chapters/99-tikz.md   \
 
 
 pandoc  chapters/00-cover.md   \
@@ -35,6 +36,8 @@ pandoc  chapters/00-cover.md   \
 		chapters/05-hard.md   \
 		chapters/06-body.md   \
 		chapters/07-time.md   \
+		chapters/08-interesting.md   \
+		chapters/09-concepts.md   \
 -o book.pdf 	\
 --pdf-engine=xelatex \
 -V CJKmainfont="Noto Sans CJK SC" \

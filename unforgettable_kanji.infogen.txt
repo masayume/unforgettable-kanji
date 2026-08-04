@@ -3,12 +3,14 @@ A BOOK OF SHORT STORIES TO REMEMBER JAPANESE IDEOGRAMS
 
 [SOURCE]
 https://livellosegreto.it/@kanjioftheday@c.im
+https://livellosegreto.it/@dailykanjibot@famichiki.jp/
 
 [DIR] directory di lavoro del libro:
 /home/masayume/DATA/E/PROJECTS/BOOKS2WRITE/BOOK-ideogram-stories/
 
 [TODO]
 refine book structure (inspired by "Remembering the Kanji" by Heisig)
+https://tikz.dev/editor/
 
 [PROMPT] URL: firefox: 	https://gemini.google.com/app/ab20670ca488c210
 
@@ -73,3 +75,17 @@ Kun\'yomi: ひど-い (hido.i)
 - EXAMPLE
 
 \newpage
+
+[TikZ] - https://tikz.dev/editor/web/
+
+\begin{tikzpicture}
+  \draw[pink] (1.49,3.2) circle (0.5cm);
+  \node[draw=none, minimum width=19pt, minimum height=16pt, node font=\Huge] at (1.5,3.2) {化};
+  \node[draw=none, node font=\scriptsize, minimum width=16pt] at (1.49,2.49) {カ, ケ};
+  \draw (0.9,3.8) circle (0.26cm);
+  \node[draw=none] at (0.9,3.8) {k};
+  \draw (2.07,3.8) circle (0.26cm);
+  \node[draw=none] at (2.07,3.8) {k};
+\end{tikzpicture}
+
+

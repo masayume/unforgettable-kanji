@@ -6,6 +6,8 @@ header-includes:
   - \usepackage{graphicx}
   - \usepackage{soul}
   - \usepackage{array}
+  - \usepackage{tikz}
+  - \usepackage{ruby}
 ---
 
 \begin{center}
