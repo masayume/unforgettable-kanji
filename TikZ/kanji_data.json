@@ -1,0 +1,23 @@
+ {
+  "kanji": "化",
+  "radicals": {
+    "亻": "person",
+    "匕": "spoon"
+  },
+  "pronounce": "カ, ケ",
+  "examples": {
+    "変化": {
+      "furigana": "へんか",
+      "meaning": "change"
+     },
+    "化学": {
+      "furigana": "かがく",
+      "meaning": "chemistry"
+     },
+    "化粧": {
+      "furigana": "けしょう",
+      "meaning": "makeup"
+     }
+  },
+  "memo": "A *person* standing over a cauldron holding a magical *spoon* to invoke a *change* spell."
+}
