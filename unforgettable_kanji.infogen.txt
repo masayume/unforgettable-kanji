@@ -23,11 +23,17 @@ https://en.wikipedia.org/wiki/Radical_78?oldid=490588152
 
 [URLS]
 https://jisho.org/search/%E9%85%B7%E6%9A%91%E6%97%A5
+https://tikz.dev/editor/web/
 
 [PROCEDURE]
+TikZ/> bash build_tikz_book.sh
+
+json data in file TikZ/kanji_data.json
+python3 generate_kanji_tikz.py
+
 BOOK WRITING TREE
 
-BOOK-ideogram-stories$ tree .
+BOOK-unforgettable_kanji$ tree .
 ├── book.pdf
 ├── build_book.sh 	<=====================	crea il libro con pandoc, concatenando le informazioni dai file specificati dentro chapters
 ├── chapters

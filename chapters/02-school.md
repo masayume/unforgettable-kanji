@@ -7,6 +7,7 @@
 - read
 - consider
 - think
+- answer
 
 \newpage
 
@@ -60,6 +61,33 @@ Kun\'yomi: おし-える (oshi.eru), おそ-わる (oso.waru)
 - 教わる (おそわる / osowaru) – to be taught, to learn from someone.
 
 \newpage
+
+**Narau 習 (なら.う) - To learn, to study. - 706 of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Upper Radical & & Kanji & & lower Radical \\
+\hline
+"feathers" or "wings." & \Huge 羽 & \scalebox{2}{\Huge 習} & \Huge 白 & (shiro) - "White". In old Chinese script, the bottom part was actually a sun/day [日] to symbolize doing something every day \\
+\hline
+\end{tabular}
+
+Imagine a tiny, young bird with soft **white (白) feathers**. To learn how to leave the nest, it has to furiously flap its little **white wings (羽)** over and over again.
+\hl{The repeated flapping of its wings is how the bird practices until it finally learns to fly, eventually making flying a natural habit.}
+
+On\'yomi: シュウ (SHŪ)
+
+- 練習 (れんしゅう / renshū) – practice.
+- 学習 (がくしゅう / gakushū) – learning, study.
+- 習慣 (しゅうかん / shūkan) – habit, custom.
+
+Kun\'yomi: なら-う (nara.u), なら-わし (nara.washi)
+
+- 習う (ならう / narau) – to learn (usually a skill or from a teacher).
+- 習わし (ならわし / narawashi) – custom, tradition, practice.
+
+\vspace{2cm}
+
 
 **Dai 題 (ダイ) - Topic, subject, theme, title. - 96 of 2500**
 
