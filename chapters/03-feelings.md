@@ -93,5 +93,28 @@ Kun\'yomi: ひど-い (hido.i)
 - 暑い (あつい / atsui) – hot (weather).
 - 暑さ (あつさ / atsusa) – heat, hotness.
 
+\vspace{1cm}
+
+**Oko.ru 怒 (いか.る、 おこ.る) - angry, be offended - 1221 of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Upper Radicals & & Kanji & & Lower Radical \\
+\hline
+(yatsu or yakko) - "Guy," "fellow," or historically "slave/servant.". Composed by 女 (onna): Woman; 又 (mata): Again & \Huge 奴 & \scalebox{2}{\Huge 怒} & \Huge 心 & "Heart" or "Mind", it is used in many kanji related to emotions, thoughts, or feelings \\
+\hline
+\end{tabular}
+
+Holding the feelings of an overworked servant in your heart is the ultimate symbol for **wrath** and **getting angry**. \hl{An overworked servant (奴) who is constantly being ordered around and grabbed by the hand (又) to do chores. Deep down in their heart (心), they are boiling with intense anger.}.
+
+On\'yomi: ド (DO)
+
+- 激怒 (げきど / gekido) – rage, fury, extreme anger.
+- 怒号 (どごう / dogō) – an angry roar, bellowing.
+
+Kun\'yomi: おこ-る (oko.ru), いか-る (ika.ru)
+
+- 怒る (おこる / okoru) – to get angry, to be mad (most common everyday use).
+- 怒り (いかり / ikari) – anger, hatred, wrath.
 
 \newpage

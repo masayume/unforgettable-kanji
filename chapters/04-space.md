@@ -52,4 +52,31 @@ Kun\'yomi: さかい (sakai)
 
 \newpage
 
+**Ochi.ru 落 (ぜん) - fall, drop, come down, village. 2nd: to fail - 420 of 2500**
 
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Upper Radical & & Kanji & & Lower Radicals \\
+\hline
+(kusakanmuri): "grass" or "plant". & \Huge 艹 & \scalebox{2}{\Huge 落} & \Huge 氵&  氵(sanzui) - "water"; 各 (kaku) - "each" or "every." \\
+\hline
+\end{tabular}
+
+A crisp morning where dew has collected on the plants. As the sun rises, **each and every (各) blade of grass (艹)** is tipped with a heavy **drop of water (氵)**. Eventually, the drops become too heavy, and they fall to the ground. \hl{In autumn, each (各) leaf on the plants/trees (艹) turns brown, and like drops of water (氵) raining from the sky, they all detach and fall to the earth.}
+
+On\'yomi: ラク (RAKU)
+
+- 落下 (らっか / rakka) – fall, drop, coming down.
+- 転落 (てんらく / tenraku) – a fall, degradation, slump.
+- 段落 (だんらく / danraku) – paragraph, end of a phase (literally "falling/settling into steps").
+
+Kun\'yomi: お-ちる (o.chiru), お-とす (o.tosu)
+
+- 落ちる (おちる / ochiru) – to fall down, to fail (an exam), to drop (intransitive).
+- 落とす (おとす / otosu) – to drop something, to lose (transitive).
+- 落ち着く (おちつく / ochitsuku) – to calm down, to settle down.
+
+\vspace{2cm}
+
+
+\newpage
