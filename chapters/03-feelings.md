@@ -3,27 +3,27 @@
 
 \newpage
 
-**Zan 残 (ザン) - remainder, leftover, balance - 380 of 2500**
+**Kan 感 (カン) - Emotion, feeling, sensation. - 233 of 2500**
 
 \begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
 \hline
-Right Radical & & Kanji & & Left Radical \\
+Upper Radical & & Kanji & & Bottom Radical \\
 \hline
-歹 (kabanehen) - This radical means "death" or "bare bone." It is found in many kanji related to death, decay, or dying (like 死). & \Huge 歹 & \scalebox{2}{\Huge 残} & \Huge 戔 & Two "spears" (戈) clashing, implying violence, cutting, or making something small. \\
+(kan) - "All" or "completely." It can be broken into two parts: 戌 (hoko): A halberd, spear; 口 (kuchi): "mouth". & \Huge 咸 & \scalebox{2}{\Huge 感} & \Huge 心 & (kokoro) Heart" or "mind". \\
 \hline
 \end{tabular}
 
-Imagine the aftermath of a fierce, ancient war. On the right, you have two spears (戔) that clashed violently in combat. On the left, you see the **bare bones of death** (歹). \hl{After the spears have done their deadly work, the only things that remain on the battlefield are the bones}.
+Warriors taking up their **weapons (戌)** and opening their **mouths (口)** to shout a battle cry in perfect unison. They are giving it **all (咸)** they have. When you put all of your **heart (心)** into a moment like this, it is an overwhelming emotion and feeling. \hl{When all (咸) of your heart (心) is completely engaged in something, that is when you truly feel it}.
 
-On\'yomi: ザン (ZAN)
+On\'yomi: カン (KAN)
 
-- 残酷 (ざんこく) cruel; brutal; ruthless; merciless; inhuman
-- 残念 (ざんねん) regrettable; unfortunate; disappointing; vexing
+- 感じる (かんじる / kanjiru) – to feel, to sense. (This is a unique word where the Chinese reading kan is attached directly to a Japanese verb ending).
+- 感情 (かんじょう / kanjō) – emotion, feeling.
+- 感謝 (かんしゃ / kansha) – gratitude, appreciation, thanks.
+- 感覚 (かんかく / kankaku) – sense, sensation, intuition.
 
-Kun\'yomi: のこ-る (noko.ru), のこ-す (noko.su)
+Kun\'yomi: None in standard everyday use. 
 
-- 残る (のこる / nokoru) – to remain (intransitive).
-- 残す (のこす / nokosu) – to leave something behind / save (transitive).
 
 \vspace{2cm}
 
@@ -116,5 +116,31 @@ Kun\'yomi: おこ-る (oko.ru), いか-る (ika.ru)
 
 - 怒る (おこる / okoru) – to get angry, to be mad (most common everyday use).
 - 怒り (いかり / ikari) – anger, hatred, wrath.
+
+\newpage
+
+**Zan 残 (ザン) - remainder, leftover, balance - 380 of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Right Radical & & Kanji & & Left Radical \\
+\hline
+歹 (kabanehen) - This radical means "death" or "bare bone." It is found in many kanji related to death, decay, or dying (like 死). & \Huge 歹 & \scalebox{2}{\Huge 残} & \Huge 戔 & Two "spears" (戈) clashing, implying violence, cutting, or making something small. \\
+\hline
+\end{tabular}
+
+Imagine the aftermath of a fierce, ancient war. On the right, you have two spears (戔) that clashed violently in combat. On the left, you see the **bare bones of death** (歹). \hl{After the spears have done their deadly work, the only things that remain on the battlefield are the bones}.
+
+On\'yomi: ザン (ZAN)
+
+- 残酷 (ざんこく) cruel; brutal; ruthless; merciless; inhuman
+- 残念 (ざんねん) regrettable; unfortunate; disappointing; vexing
+
+Kun\'yomi: のこ-る (noko.ru), のこ-す (noko.su)
+
+- 残る (のこる / nokoru) – to remain (intransitive).
+- 残す (のこす / nokosu) – to leave something behind / save (transitive).
+
+\vspace{1cm}
 
 \newpage
