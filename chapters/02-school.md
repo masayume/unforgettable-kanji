@@ -89,7 +89,6 @@ Kun\'yomi: なら-う (nara.u), なら-わし (nara.washi)
 
 \vspace{2cm}
 
-
 **Dai 題 (ダイ) - Topic, subject, theme, title. - 96 of 2500**
 
 \begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
@@ -110,5 +109,35 @@ On\'yomi: ダイ (DAI)
 - 話題 (わだい / wadai) – topic of conversation.
 
 Kun\'yomi: none in everyday use
+
+\newpage
+
+\vspace{2cm}
+
+**Shiki 識 (シキ) - To know, to recognize, consciousness, discrimination. - 496 of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Left Radical & & Kanji & & Right Radical \\
+\hline
+(gonben) — The "words" or "speech" radical. & \Huge 言 & \scalebox{2}{\Huge 識} & \Huge 戠 & (ōgai) 音 (oto): Sound or noise. 戈 (hoko): A spear or halberd. \\
+\hline
+\end{tabular}
+
+A guard standing watch at night, relying entirely on their awareness and consciousness to tell friend from foe. They grip their **spear (戈)** tightly, listening closely to the **sounds (音)** of footsteps and the **words (言)** being spoken by the approaching stranger.
+\hl{By carefully analyzing the words and sounds while holding your spear, you can recognize who is there and gain true knowledge of the situation.}
+
+On\'yomi: シキ (SHIKI)
+
+- 知識 (ちしき / chishiki) – knowledge, information.
+- 意識 (いしき / ishiki) – consciousness, awareness.
+- 認識 (にんしき / ninshiki) – recognition, realization, understanding.
+- 常識 (じょうしき / jōshiki) – common sense.
+
+Kun'yomi (Japanese reading): しる (shiru), しる-す (shiru.su)
+
+Note: These readings are relatively rare in modern Japanese, as 知る (shiru - to know) and 記す (shirusu - to write down) are almost always used instead. 識 is overwhelmingly used for its On'yomi (SHIKI) in compound words.
+
+\vspace{2cm}
 
 \newpage
