@@ -38,6 +38,7 @@ pandoc  chapters/00-cover.md   \
 		chapters/07-time.md   \
 		chapters/08-interesting.md   \
 		chapters/09-concepts.md   \
+		chapters/10-fight.md   \
 -o book.pdf 	\
 --pdf-engine=xelatex \
 -V CJKmainfont="Noto Sans CJK SC" \

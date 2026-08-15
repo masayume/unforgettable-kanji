@@ -1,6 +1,8 @@
  
 # Chapter 6: Body
 
+- K - head
+- K - face
 - 胸 - breast
 - 腕 - arm
 - 腹 - stomach

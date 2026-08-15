@@ -78,5 +78,29 @@ Kun\'yomi: お-ちる (o.chiru), お-とす (o.tosu)
 
 \vspace{2cm}
 
+**Ryo 旅 (たび) - Trip, travel, journey. - 783 of 2500**
+
+\begin{tabular}{|m{6cm}|m{0.8cm}|m{1.4cm}|m{0.8cm}|m{6cm}|}
+\hline
+Left Radical & & Kanji & & Right Radical \\
+\hline
+(hōhen or katahen) On the left means "direction," "way," or "side." & \Huge 方 & \scalebox{2}{\Huge 旅} & \Huge 𠂉民 & "Banner" (top) and "People" bottom. \\
+\hline
+\end{tabular}
+
+Going on a grand trip. To make sure nobody gets lost, the tour guide holds up a tall, fluttering **banner (𠂉)** to show the group of **people (民)** exactly which **direction (方)** they need to walk.
+\hl{Following a guide's banner in a specific direction is the easiest way to safely travel and enjoy your journey.}
+
+On\'yomi: リョ (RYO)
+
+- 旅行 (りょこう / ryokō) – travel, trip.
+- 旅館 (りょかん / ryokan) – traditional Japanese inn.
+- 旅客 (りょかく / ryokaku) – passenger, traveler.
+
+Kun\'yomi: たび (tabi)
+
+- 旅 (たび / tabi) – journey, travel.
+- 一人旅 (ひとりたび / hitoritabi) – traveling alone, solo trip.
+- 旅立ち (たびだち / tabidachi) – setting off on a journey, departure.
 
 \newpage
